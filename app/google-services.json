@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "298853806312",
+    "firebase_url": "https://attendance-d3cbd-default-rtdb.firebaseio.com",
+    "project_id": "attendance-d3cbd",
+    "storage_bucket": "attendance-d3cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298853806312:android:e20260409dff5b56f0d95d",
+        "android_client_info": {
+          "package_name": "com.dataflair.onlineattendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298853806312-sc0h9nt9l2rc152tc2knikiuqa84f1g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZ326EJnbmXUMA6PqT4r-uRvUm2RUXkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298853806312-sc0h9nt9l2rc152tc2knikiuqa84f1g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298853806312:android:3cf765fde8d61ff2f0d95d",
+        "android_client_info": {
+          "package_name": "com.dataflair.onlineattendancesystem.Activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298853806312-sc0h9nt9l2rc152tc2knikiuqa84f1g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZ326EJnbmXUMA6PqT4r-uRvUm2RUXkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298853806312-sc0h9nt9l2rc152tc2knikiuqa84f1g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
